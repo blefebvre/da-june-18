@@ -1,0 +1,10 @@
+{
+  "sites": {
+    "da-june-18": {
+      "previewOrg": "blefebvre",
+      "previewSite": "da-june-18",
+      "contentHostUrl": "https://content.da.live/blefebvre/da-june-18/"
+    }
+  },
+  "type": "da"
+}
